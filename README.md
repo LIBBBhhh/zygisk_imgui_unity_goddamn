@@ -1,8 +1,4 @@
-# Zygisk-Inject-ImGui
-Example of using zygisk to inject imgui menus
-
-This is not a good project 
-You may encounter many problems
+# goddamn
 
 
 # Build and Installation
