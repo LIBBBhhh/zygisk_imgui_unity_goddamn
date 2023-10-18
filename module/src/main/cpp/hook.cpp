@@ -52,7 +52,6 @@ const char* tru = "200080D2C0035FD6";
 #include "KittyMemory/MemoryPatch.h"
 
 #include "memory/hooks.h"
-#include "module_utils.h"
 int isGame(JNIEnv *env, jstring appDataDir) {
     if (!appDataDir)
         return 0;
