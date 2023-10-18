@@ -1,4 +1,5 @@
 # goddamn
+I also tried like him: https://github.com/SwaggY699/Zygisk-Test-2 but cmake modules are shitty
 
 
 # Build and Installation
